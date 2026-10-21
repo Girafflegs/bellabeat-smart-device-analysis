@@ -24,6 +24,7 @@ The analysis also considers limitations of the dataset, including its age, small
 ## Supporting Analysis
 
 The presentation includes links to the original Kaggle dataset, additional Tableau visualizations, and a separate GitHub repository containing the Python/Jupyter Fitbit sleep analysis.
+- [Fitbit Sleep Analysis — Python/Jupyter Notebook](https://github.com/Girafflegs/fitbit-sleep-analysis)
 
 ## Generative AI Disclosure
 
